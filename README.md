@@ -27,6 +27,7 @@ REST clients should be able to:
 - Get a product or a list of products
 - Place a order
 - Role-based acces
+- Register a new user
 
 **Steps**
 
