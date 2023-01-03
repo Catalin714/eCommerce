@@ -1,6 +1,6 @@
-**CUSTOMER RELATIONSHIP MANAGEMENT (CRM) REST API**
+**Ecommerce API**
 
-I did a simple Customer Relationship Management (CRM) REST API.
+I did a simple Ecommerce API.
 
 Tools and technologies used:
 
